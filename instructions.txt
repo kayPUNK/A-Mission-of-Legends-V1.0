@@ -1,0 +1,22 @@
+Welcome to A Mission of Legends V1.0
+
+Coauthored by Dakota Cookenmaster and Kyle Hernandez, this is a text adventure game where you play as a great hero in 
+search of the legendary ruby necklace held under the control of an ancient dragon. This was a project that was lead by
+Dakota Cookenmaster to train Kyle Hernandez in JavaScript.
+
+To play, please open index.html (don't forget to extract the files for it to function properly!)
+
+Controls:
+-go 		(move north, south, east, west)
+-location 	(displays current location)
+-inventory 	(displays current inventory)
+-give ____ 	(give an item from your inventory to another character)
+-health 	(displays current health)
+-fight		(begins combat in current area)
+-use ____	(consumes an item from your inventory)
+
+Win Condition:
+Deliver the ruby necklace to the princess. (A map of the world is provided named "map.png" thanks to Kyle's amazing artistic talents.)
+
+
+

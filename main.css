@@ -1,0 +1,14 @@
+body, textarea {
+    font-family: "Helvetica", "Verdana", sans-serif;
+}
+
+textarea {
+    height: 250px;
+    width: 500px;
+    padding: 10px;
+}
+
+input {
+    width: 300px;
+}
+
